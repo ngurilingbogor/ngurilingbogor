@@ -33,5 +33,5 @@ Nguriling Bogor aims to:
 - Firman Ardiansyah, S.Kom., M.Si.
 - Muhammad Asyhar Agmalaro, S.Si., M.Kom
 - Arhammirza Ibrahim
-- Dharma
-- Raffif
+- Dharma Pratama
+- Rafif Rabbani
